@@ -22,6 +22,7 @@ I am currently professor in Electrical and Computer Engineering at the Universit
 
 ### News, presentations and seminars 
 - [Conference on Decision and Control](https://cdc2024.ieeecss.org), Milan, December 2024
+- [Asilomar Confrence on Signals, Systems and Computers](https://www.asilomarsscconf.org), Pacific Grove, October 2024
 - [Symposium on Systems Theory in Data and Optimization](https://www.sysdo2024.de/en/index.php/), Stuttgart, September 2024
 - [Symposium on Mathematical Theory of Networks and Systems](https://mtns2024.eng.cam.ac.uk), Cambridge, August 2024
 - [Canadian Applied and Industrial Mathematics Society Annual Meeting](https://caims2024.org), Kingston, June 2024
