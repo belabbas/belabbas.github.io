@@ -9,6 +9,8 @@
   layout: page
   permalink: /
 ---
+
+
 ### About me
 <img style="padding: 0px 5px 0px 0px;float: left;" align="left" width="40%" src="/images/mug.jpg" />
 My research interests are in control theory and dynamical systems. I focus on geometric and stochastic control, with their applications to networked systems, formation control, sensor and actuator design, motion planning, robotics and learning. I am also interested in (random) graph theoretic methods in control, and particularly in graphon-based approaches.
