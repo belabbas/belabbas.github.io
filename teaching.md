@@ -4,4 +4,4 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Fall 2024: Stochastic Control
+Fall 2024: [Stochastic Control](stochasticcontrolFA24)
