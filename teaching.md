@@ -4,4 +4,5 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Fall 2024: [Stochastic Control](/stochasticcontrolFA24)
+Stochastic Control: [Fall 2024](/stochasticcontrolFA24)
+Introduction to Robotics (ECE470):
