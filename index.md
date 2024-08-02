@@ -10,7 +10,7 @@
   permalink: /
 ---
 ### About me
-<img align="left; padding: 1px 1px 1px 1px;"  width="40%" src="/images/mug.jpg" />
+<img align="left; padding: 3pt 3pt 3pt 3pt;"  width="40%" src="/images/mug.jpg" />
 My research interests are in control theory and dynamical systems. I focus on geometric and stochastic control, with their applications to networked systems, formation control, sensor and actuator design, motion planning, robotics and learning. I am also interested in (random) graph theoretic methods in control, and particularly in graphon-based approaches.
 <br>
 I am currently professor in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign, with affiliations with the Coordinated Science Laboratory and the Department of Mathematics. I obtained my PhD in Applied Mathematics from Harvard University working with R. Brockett, and undergraduate degrees from École Centrale Paris and Université Catholique de Louvain.
