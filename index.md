@@ -17,8 +17,7 @@ My research interests are in control theory and dynamical systems. I focus on ge
 <br>
 I am currently professor in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign, with affiliations with the Coordinated Science Laboratory and the Department of Mathematics. I obtained my PhD in Applied Mathematics from Harvard University working with R. Brockett, and undergraduate degrees from École Centrale Paris and Université Catholique de Louvain.
 
-<br>
-
+---
 ### News, presentations and seminars 
 - [Conference on Decision and Control](https://cdc2024.ieeecss.org), Milan, Italy, December 2024
 - [Asilomar Confrence on Signals, Systems and Computers](https://www.asilomarsscconf.org), Pacific Grove, CA, October 2024
