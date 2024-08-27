@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-Stochastic Control (ECE 555): [Fall 2024](teaching/stochasticcontrolFA24)
+Stochastic Control (ECE 555): [Fall 2024](/teaching/stochasticcontrolFA24)
 
 Geometric Control (ECE557):
 
