@@ -26,7 +26,7 @@ There will be 5-6 homeworks assigned, an in-class exam and a final project. Home
 
 | Chapter    | File | Date Published|
 | -------- | ------- | ------------|
-| TOC + Chapter 1 |  | Aug 27    |
+| TOC + Chapter 1 | [File](https://uofi.box.com/s/idfy4hcpc9adtyy5qulokszrp15o2o5c) | Aug 27    |
 
 ### Additional items
 
