@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stochastic Control1 (Fall 2024)
+title: Stochastic Control (Fall 2024)
 permalink: /teaching/stochasticcontrolFA24
 ---
 
