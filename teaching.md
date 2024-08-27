@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: /teaching
 ---
 
 Stochastic Control (ECE 555): [Fall 2024](/stochasticcontrolFA24)
