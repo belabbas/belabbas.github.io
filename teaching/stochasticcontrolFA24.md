@@ -30,3 +30,4 @@ There will be 5-6 homeworks assigned, an in-class exam and a final project. Home
 
 ### Additional items
 
+Recorded lectures can be found on the [course channel](https://mediaspace.illinois.edu/channel/ECE555+Stochastic+Control+Fall+24/355228162/subscribe).
