@@ -37,4 +37,5 @@ Recorded lectures can be found on the [course channel](https://mediaspace.illino
 ### Additional references
 
 [Stochastic Methods](https://link.springer.com/book/9783540707127) by C. Gardiner
+
 [Stochastic Calculus and Applications](https://link.springer.com/book/10.1007/978-1-4939-2867-5) by S. Cohen and R. Elliot
