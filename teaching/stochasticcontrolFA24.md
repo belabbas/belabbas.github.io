@@ -8,11 +8,11 @@ Fall 2024: Stochastic Control
 
 ### Staff
 **Instructor:** Mohamed Ali Belabbas, CSL 166.
-Office hours: TBD
+Office hours: Tuesday 12.30PM, CSL 166 or 141.
 Contact: belabbas@illinois.edu
 
 **Teaching Assitant:** Erkan Bayram, CSL 157
-Office hours: TBD
+Office hours: Thursday 2PM, CSL 157
 Contact: ebayram2@illinois.edu
 
 
