@@ -29,7 +29,7 @@ There will be 5-6 homeworks assigned, an in-class exam and a final project. Home
 | TOC + Chapter 1: Intro to probability | [File](https://uofi.box.com/s/idfy4hcpc9adtyy5qulokszrp15o2o5c) | Sep 17    |
 |Chaper 2: Basics of stochastic processes | [File](https://uofi.box.com/s/ywarhixnm3id82kv4ea6u0y9z2nzwlb9) | Sep 17|
 |Chapter 3: Poisson counters and stochastic differential equations | [File](https://uofi.box.com/s/plhhq4b65modt0yxv4wyuxd6lqmhentk) | Sep 10|
-
+|Chapter 4: Dynamic Programming and Optimal Control | [File]([https://uofi.box.com/s/plhhq4b65modt0yxv4wyuxd6lqmhentk](https://uofi.box.com/s/9pgwhagt05vlxgxnqflcvggh8zhxjp51)) | Oct 1|
 ### Additional items
 
 Recorded lectures can be found on the [course channel](https://mediaspace.illinois.edu/channel/ECE555+Stochastic+Control+Fall+24/355228162/subscribe).
