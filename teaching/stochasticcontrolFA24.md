@@ -15,6 +15,11 @@ Contact: belabbas@illinois.edu
 Office hours: Thursday 2PM, CSL 157
 Contact: ebayram2@illinois.edu
 
+### Midterm
+
+Thu Oct 31, in class.
+
+Closed notes. You can have 1 cheat sheet (with anything you want written on it; preferably material related to the course though).
 
 ### Grading policy
 
@@ -23,6 +28,7 @@ There will be 5-6 homeworks assigned, an in-class exam and a final project. Home
 ### Homeworks
 Homeworks are posted on Gradescope.
 HW1
+
 HW2: due Oct 11
 
 ### Course notes
