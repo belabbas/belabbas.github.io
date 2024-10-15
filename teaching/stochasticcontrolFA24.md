@@ -38,7 +38,9 @@ HW2: due Oct 11
 | TOC + Chapter 1: Intro to probability | [File](https://uofi.box.com/s/idfy4hcpc9adtyy5qulokszrp15o2o5c) | Sep 17    |
 |Chaper 2: Basics of stochastic processes | [File](https://uofi.box.com/s/ywarhixnm3id82kv4ea6u0y9z2nzwlb9) | Sep 17|
 |Chapter 3: Poisson counters and stochastic differential equations | [File](https://uofi.box.com/s/plhhq4b65modt0yxv4wyuxd6lqmhentk) | Oct 1|
-|Chapter 4: Dynamic Programming and Optimal Control | [File](https://uofi.box.com/s/9pgwhagt05vlxgxnqflcvggh8zhxjp51) | Oct 1|
+|Chapter 4: Dynamic Programming and Optimal Control | [File](https://uofi.box.com/s/9pgwhagt05vlxgxnqflcvggh8zhxjp51) | Oct 10|
+|Chapter 5: Wiener Process and Stochastic Differential Equations | [File](https://uofi.box.com/s/gbbtihvlr4fodulqz0x2ozwer7imj9j1) | Oct 10|
+
 ### Additional items
 
 Recorded lectures can be found on the [course channel](https://mediaspace.illinois.edu/channel/ECE555+Stochastic+Control+Fall+24/355228162/subscribe).
