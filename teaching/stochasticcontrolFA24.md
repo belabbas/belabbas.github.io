@@ -17,9 +17,9 @@ Contact: ebayram2@illinois.edu
 
 ### Midterm
 
-Thu Oct 31, in class.
+Tue Nov 5, in class.
 
-Closed notes. You can have 1 cheat sheet (with anything you want written on it; preferably material related to the course though).
+Closed notes. You can have 1 cheat sheet (letter-sized, double-sided, with anything you want written on it; preferably material related to the course though).
 
 ### Grading policy
 
