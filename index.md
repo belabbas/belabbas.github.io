@@ -24,7 +24,7 @@ My research interests are in control theory and dynamical systems. I focus on ge
 ---
 ### News, presentations and seminars 
 - Plenary talk [NECSYS'25](https://www.necsys25.org/PlenarySpeakers.html), Hong-Kong, June 2025.
-- Special-session at the Joint Mathematics Meeting on [Control Theory and AI[(https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss35.html), organized with Tony Bloch, Seattle, January 2025
+- Special-session at the Joint Mathematics Meeting on [Control Theory and AI](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss35.html), organized with Tony Bloch, Seattle, January 2025
 - [Conference on Decision and Control](https://cdc2024.ieeecss.org), Milan, Italy, December 2024
 - [Asilomar Confrence on Signals, Systems and Computers](https://www.asilomarsscconf.org), Pacific Grove, CA, October 2024
 - [Symposium on Systems Theory in Data and Optimization](https://www.sysdo2024.de/en/index.php/), Stuttgart, Germany, September 2024
