@@ -21,6 +21,7 @@ Tue Nov 5, in class.
 
 Closed notes. You can have 1 cheat sheet (letter-sized, double-sided, with anything you want written on it; preferably material related to the course though).
 
+
 ### Grading policy
 
 There will be 5-6 homeworks assigned, an in-class exam and a final project. Homeworks count for 40% of the final grade, the exam for 20% and the final project for 40% 
