@@ -37,13 +37,13 @@ HW2: due Oct 11
 | Chapter    | File | Last updated|
 | -------- | ------- | ------------|
 | TOC + Chapter 1: Intro to probability | [File](https://uofi.box.com/s/idfy4hcpc9adtyy5qulokszrp15o2o5c) | Sep 17    |
-|Chaper 2: Basics of stochastic processes | [File](https://uofi.box.com/s/ywarhixnm3id82kv4ea6u0y9z2nzwlb9) | Sep 17|
-|Chapter 3: Poisson counters and stochastic differential equations | [File](https://uofi.box.com/s/plhhq4b65modt0yxv4wyuxd6lqmhentk) | Oct 1|
-|Chapter 4: Dynamic Programming and Optimal Control | [File](https://uofi.box.com/s/9pgwhagt05vlxgxnqflcvggh8zhxjp51) | Oct 10|
-|Chapter 5: Wiener Process and Stochastic Differential Equations | [File](https://uofi.box.com/s/gbbtihvlr4fodulqz0x2ozwer7imj9j1) | Oct 29|
-|Chapter 6: System Concepts | [File](https://uofi.box.com/s/1lny9kzd1skbkw7aa2aqj8serfeeqr9m) | Nov 20|
-|Chapter 7: Estimation | [File](https://uofi.box.com/s/yfagt12ujv5hyetghrldayjkmzif4sku)|Nov 19|
-|Chapter 8-9: Separation Principle + Ergodic Theory | [File](https://uofi.app.box.com/file/1717632966255)|Dec 5|
+|Chaper 2: Basics of stochastic processes | [File](https://uofi.box.com/s/ywarhixnm3id82kv4ea6u0y9z2nzwlb9) | Sep 17 |
+|Chapter 3: Poisson counters and stochastic differential equations | [File](https://uofi.box.com/s/plhhq4b65modt0yxv4wyuxd6lqmhentk) | Oct 1 |
+|Chapter 4: Dynamic Programming and Optimal Control | [File](https://uofi.box.com/s/9pgwhagt05vlxgxnqflcvggh8zhxjp51) | Oct 10 |
+|Chapter 5: Wiener Process and Stochastic Differential Equations | [File](https://uofi.box.com/s/gbbtihvlr4fodulqz0x2ozwer7imj9j1) | Oct 29 |
+|Chapter 6: System Concepts | [File](https://uofi.box.com/s/1lny9kzd1skbkw7aa2aqj8serfeeqr9m) | Nov 20 |
+|Chapter 7: Estimation | [File](https://uofi.box.com/s/yfagt12ujv5hyetghrldayjkmzif4sku)| Nov 19 |
+|Chapter 8-9: Separation Principle + Ergodic Theory | [File](https://uofi.app.box.com/file/1717632966255)| Dec 5 |
 
 
 ### Additional items
