@@ -44,6 +44,8 @@ HW2: due Oct 11
 |Chapter 6: System Concepts | [File](https://uofi.box.com/s/1lny9kzd1skbkw7aa2aqj8serfeeqr9m) | Nov 20|
 |Chapter 7: Estimation | [File](https://uofi.box.com/s/yfagt12ujv5hyetghrldayjkmzif4sku)|Nov 19|
 |Chapter 8-9: Separation Principle + Ergodic Theory | [File](https://uofi.app.box.com/file/1717632966255)|Dec 5|
+
+
 ### Additional items
 
 Recorded lectures can be found on the [course channel](https://mediaspace.illinois.edu/channel/ECE555+Stochastic+Control+Fall+24/355228162/subscribe).
