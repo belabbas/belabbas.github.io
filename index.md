@@ -25,6 +25,7 @@ My research interests are in control theory and dynamical systems. I focus on ge
 
 ---
 ### News, presentations and seminars 
+- Our book on [Geometry, Topology and Control System Design](https://www.aimsciences.org/book/AM/volume/59) has been published.
 - Tutorial on Graphons in Systems and Control at CDC25, Rio de Janeiro, December 2025
 - Visiting RWTH Aachen, Aachen, Germany, August 2025
 - Plenary talk at [NECSYS'25](https://www.necsys25.org/PlenarySpeakers.html), Hong-Kong, June 2025.
