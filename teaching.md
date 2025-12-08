@@ -16,3 +16,5 @@ Control Systems Theory & Design (ECE [515](https://ece.illinois.edu/academics/co
 
 Adaptive Control ([ECE 517](https://ece.illinois.edu/academics/courses/ece517))
 
+Principles of Safe Autonomy ([ECE 484](https://publish.illinois.edu/safe-autonomy/))
+
