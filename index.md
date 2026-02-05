@@ -24,7 +24,7 @@ My research interests are in control theory and dynamical systems. I focus on ge
 </section>
 
 ---
-### Some news and events 
+### Some recent news and events 
 - On Scientifc committee of the first Uruguay space summit (Apr 9-12) 
 - Talk on fine tuning neural ODEs at [MLDS5](https://sites.google.com/view/mlds-deds-2026)
 - Our book on [Geometry, Topology and Control System Design](https://www.aimsciences.org/book/AM/volume/59) has been published.
